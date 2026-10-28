@@ -19,9 +19,9 @@ Data Science & Analytics student at the **University of Santo Tomas** (Class of 
 <!-- When a project has its own repo, turn its name into a link:
      | [**Hospital admission system**](https://github.com/your-username/hospital-admission-system) | ... | ... | -->
 
-### ⚡ Vibe-coded projects
+### ⚡ Passion projects
 
-Smaller apps I built quickly with AI coding tools, to try out ideas and learn new stacks.
+Smaller apps I built to try out ideas and learn new stacks.
 
 | Project | What it does | Links |
 | --- | --- | --- |
