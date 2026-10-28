@@ -2,7 +2,7 @@
 
 Data Science & Analytics student at the **University of Santo Tomas** (Class of 2027), based in Manila. I work on EDA, predictive modeling and data visualization, and I like turning messy data into evidence for real decisions.
 
-🌐 **Portfolio:** [Darrie-Andrei-Dizon.github.io](https://Darrie-Andrei-Dizon.github.io)
+<!-- 🌐 **Portfolio:** [Darrie-Andrei-Dizon.github.io](https://Darrie-Andrei-Dizon.github.io) -->
 📫 **Email:** darrieandrei.dizon.sci@ust.edu.ph
 💼 **LinkedIn:** [Darrie Andrei Dizon](https://www.linkedin.com/in/darrie-andrei-dizon-657a13405/)
 
