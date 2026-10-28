@@ -16,6 +16,19 @@ Data Science & Analytics student at the **University of Santo Tomas** (Class of 
 | **E-commerce data warehouse (ShopZada)** | Full ETL cycle into a centralized warehouse, with metrics and dashboards defined from business goals | SQL, ETL |
 | **Hospital admission system** | Full CRUD system for patient records, staff scheduling and real-time room tracking | SQL, database design |
 | **Council asset inventory tracker** | Online tracker for 300+ assets with an automated borrowing flow | Google Apps Script |
+<!-- When a project has its own repo, turn its name into a link:
+     | [**Hospital admission system**](https://github.com/your-username/hospital-admission-system) | ... | ... | -->
+
+### ⚡ Vibe-coded projects
+
+Smaller apps I built quickly with AI coding tools, to try out ideas and learn new stacks.
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| **Pondo** | A personal finance tracker for logging income and expenses and seeing where my money goes | Coming soon |
+
+<!-- To add one: copy the Pondo row. When it has a repo or live link, replace "Coming soon" with
+     [Code](https://github.com/your-username/pondo) · [Live](https://your-live-link) -->
 
 ## 🧰 Skills
 
