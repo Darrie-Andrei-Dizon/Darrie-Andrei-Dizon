@@ -25,7 +25,7 @@ Smaller apps I built quickly with AI coding tools, to try out ideas and learn ne
 
 | Project | What it does | Links |
 | --- | --- | --- |
-| **Pondo** | A personal finance tracker for logging income and expenses and seeing where my money goes | Coming soon |
+| **Pondo** | A personal finance tracker for logging income and expenses and seeing where my money goes | [Live](https://github.com/Darrie-Andrei-Dizon/Pondo) |
 
 <!-- To add one: copy the Pondo row. When it has a repo or live link, replace "Coming soon" with
      [Code](https://github.com/your-username/pondo) · [Live](https://your-live-link) -->
