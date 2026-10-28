@@ -30,6 +30,14 @@ Smaller apps I built to try out ideas and learn new stacks.
 <!-- To add one: copy the Pondo row. When it has a repo or live link, replace "Coming soon" with
      [Code](https://github.com/your-username/pondo) · [Live](https://your-live-link) -->
 
+### ☕ Enjoyed these projects?
+
+I build these passion projects in my free time as a student. If one helped you or made you smile, you can support the next one. Every bit goes to hosting, tools and coffee.
+
+<img src="gcash-qr.png" width="180" alt="GCash QR code for sending a donation">
+
+**Scan with GCash** (or any bank or e-wallet app that scans QR Ph) to send any amount. Salamat! 💙
+
 ## 🧰 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
