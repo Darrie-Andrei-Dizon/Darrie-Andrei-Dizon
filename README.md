@@ -26,7 +26,7 @@ Smaller apps I built to try out ideas and learn new stacks.
 | Project | What it does | Links |
 | --- | --- | --- |
 | **Pondo** | A personal finance tracker for logging income and expenses and seeing where my money goes | [Live](https://github.com/Darrie-Andrei-Dizon/Pondo) |
-
+| **Daily Fit** | A phone-first study app for my data science course: 257 spaced-repetition questions with explanations and common traps, beginner Python lessons, 24 guided code labs, streaks and XP | [Code](https://github.com/Darrie-Andrei-Dizon/daily-fit) · [Live](https://Darrie-Andrei-Dizon.github.io/daily-fit/) |
 <!-- To add one: copy the Pondo row. When it has a repo or live link, replace "Coming soon" with
      [Code](https://github.com/your-username/pondo) · [Live](https://your-live-link) -->
 
